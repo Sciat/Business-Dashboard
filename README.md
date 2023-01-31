@@ -56,6 +56,6 @@ Business dashboard let you focus and align your entire business on a single glan
 
 Business dashboard is free online and on-premises software shares much of the same help resources as it’s commercial license. Business dashboard free version is great for indusial-oriented dashboarding and analytics. The business dashboard software free version also be found on GitHub under this license for Business dashboard Open Source Community. If you need more capabilities such as using commercially then evaluate our commercial license. 
 
-## Links
+## Live Demo
 
   * Check out the [Business Dashboard Buidler  documentation](https://dashboardbuilder.net/documentation) for more information.
