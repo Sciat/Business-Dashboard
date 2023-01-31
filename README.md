@@ -60,4 +60,4 @@ Business dashboard is free online and on-premises software shares much of the sa
 
 ## Live Demo
 
-  * Check out the [Business Dashboard Buidler  documentation](https://dashboardbuilder.net/documentation) for more information.
+  * Check out the [Business Dashboard Buidler  documentation]() for more information.
